@@ -1,0 +1,11 @@
+
+#game{
+	width: 600px;
+	margin: auto;
+	font-family: Tahoma, Geneva, sans-serif;
+	background-color: #eea1a4;
+	text-align: center;
+	margin-top: 100px;
+	padding: 30px;
+	border: 1px solid black;
+}
